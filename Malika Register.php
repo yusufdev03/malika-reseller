@@ -1,8 +1,8 @@
 <?php
 /*
   Plugin Name: Malika Reseller
-  Plugin URI: http://code.tutsplus.com
-  Description: Updates user rating based on number of posts.
+  Plugin URI: -
+  Description: Can register reseller in Woocommerce.
   Version: 1.0
   Author: Yusuf Eko N.
   Author URI: https://malika.id
