@@ -1,2 +1,2 @@
 # malika-reseller
-Can add reseller list in Woocommerce
+Can register reseller in Woocommerce
